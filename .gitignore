@@ -1,0 +1,8 @@
+bin/
+out/
+work/
+*.exe
+*.zip
+*.bak
+*.log
+*.patch.log
