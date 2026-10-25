@@ -1,0 +1,8 @@
+--- a/Plain Craft Launcher 2/Modules/ModSecret.vb
++++ b/Plain Craft Launcher 2/Modules/ModSecret.vb
+@@ -8,1 +8,1 @@
+-    Public OAuthClientId As String = If(Environment.GetEnvironmentVariable("PCL_MS_CLIENT_ID"), "")
++    Public OAuthClientId As String = If(Environment.GetEnvironmentVariable("PCL_MS_CLIENT_ID"), "c14b0370-8d75-42f8-b329-5b60d39e319f")
+@@ -16,1 +16,1 @@
+-    Public Const RestrictMcDownload As Boolean = True
++    Public Const RestrictMcDownload As Boolean = False
