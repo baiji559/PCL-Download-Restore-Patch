@@ -1,4 +1,4 @@
-﻿# PCL 2.99 下载功能恢复补丁
+# PCL 2.99 下载功能恢复补丁
 
 > **非官方项目**：与龙腾猫跃、PCL 官方团队、PCL 社区（PCL-Community）没有任何隶属、授权或合作关系。
 > 官方版本请使用 [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE) 或 [Meloong-Git/PCL](https://github.com/Meloong-Git/PCL)。
@@ -32,7 +32,7 @@ PCL CE 2.99 把 Minecraft 下载相关代码在**编译期**删掉了：源码�
 ### 使用
 
 1. 完全退出 PCL，包括右下角托盘图标。
-2. 运行 `PCL299-Download-Restore-Patch.exe`。它会自动从桌面/开始菜单快捷方式、常见安装目录里找你已安装的 PCL；找不到就点“浏览”选中你的 `Plain Craft Launcher 2.exe`。
+2. 运行 `PCL299-Download-Restore-Patch.exe`（也可以直接从 [Releases](https://github.com/baiji559/PCL299-Download-Restore-Patch/releases/latest) 下载已编译好的版本）。它会自动从桌面/开始菜单快捷方式、常见安装目录里找你已安装的 PCL；找不到就点“浏览”选中你的 `Plain Craft Launcher 2.exe`。
 3. 点“开始修补”。
 4. 看到“修补成功”后，照旧用原来的快捷方式启动 PCL，进入“下载”页。
 
